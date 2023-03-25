@@ -1183,6 +1183,9 @@ section {
   color: #ccc;
   text-decoration: line-through;
 }
+.pricing ul .na2 {
+  color: #ccc;
+}
 
 .pricing .btn-wrap {
   padding: 20px 15px;
