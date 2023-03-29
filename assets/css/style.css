@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
 body {
   font-family: "Open Sans", sans-serif;
   color: black;
@@ -91,11 +95,13 @@ h6 {
 
 #header .logo h1 {
   font-size: 28px;
-  margin: 0;
+
   line-height: 0;
   font-weight: 600;
   letter-spacing: 1px;
-  font-family: "Open Sans", sans-serif;
+  padding: 15px;
+  color:#7CB829;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #header .logo h1 a,
@@ -647,11 +653,11 @@ section {
 }
 
 .services .icon-box-green .icon i {
-  color: #41cf2e;
+  color: #7CB829;
 }
 
 .services .icon-box-green:hover {
-  border-color: #41cf2e;
+  border-color: #7CB829;
 }
 
 .services .icon-box-blue .icon i {
