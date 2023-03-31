@@ -71,7 +71,8 @@ h6 {
 
   line-height: 0;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
+  margin-left: 0px;
   padding: 15px;
   color:#7CB829;
   font-family: 'Shadows Into Light', cursive;
@@ -239,11 +240,17 @@ h6 {
   transition: 0.5s;
 }
 
+
+.logoivi{
+  margin-left: 20%;
+ 
+}
+
 .mobile-nav-toggle.bi-x {
   color: #fff;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1200px) {
   .mobile-nav-toggle {
     display: block;
   }
@@ -873,6 +880,7 @@ section {
   .cta {
     background-attachment: fixed;
   }
+  
 }
 
 @media (min-width: 769px) {
