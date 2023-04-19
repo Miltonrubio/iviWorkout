@@ -507,7 +507,7 @@ section {
 .features .nav-link {
   border: 0;
   padding: 20px;
-  transition: 0.3s;
+  transition: 0.1s;
   color: black;
   transition: 0.3s ease-in-out;
   border-radius: 0;
@@ -517,7 +517,7 @@ section {
 .features .nav-link h4 {
   font-size: 18px;
   font-weight: 600;
-  transition: 0.3s ease-in-out;
+  transition: 0.1s ease-in-out;
   color: #f2509b;
 }
 
@@ -546,8 +546,8 @@ section {
 }
 
 .features .tab-pane.active {
-  -webkit-animation: slide-down 0.5s ease-out;
-  animation: slide-down 0.5s ease-out;
+  -webkit-animation: slide-down 0.2s ease-out;
+  animation: slide-down 0.2s ease-out;
 }
 
 .features .tab-content {
