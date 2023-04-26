@@ -357,7 +357,6 @@ h6 {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
-  margin-top: 70px;
   padding: 60px 0;
 }
 
@@ -453,7 +452,6 @@ section {
 --------------------------------------------------------------*/
 .about {
   padding: 0;
-  margin-top: 40px;
 }
 
 .about .container {
