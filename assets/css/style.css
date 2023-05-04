@@ -964,11 +964,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #f2509b;
+  border: 1px solid #009cea;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #f2509b;
+  background-color: #009cea;
 }
 
 /*--------------------------------------------------------------
